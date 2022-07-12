@@ -1,0 +1,8 @@
+{
+  "name": "dx-home-work",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "https://github.com/Yaroslav-Kunytskyy/dx-home-work.git",
+  "author": "Yaroslav Kunytskyy <yaroslav_kunytskyy@pecodesoftware.com>",
+  "license": "MIT"
+}
